@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  --font-inter: 'Inter Tight', sans-serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+  --color-bg: #f9fafb;
+  --color-text: #1f2937;
+  --color-primary: #2563eb;
+  --color-accent: #1e40af;
+}
+
+body {
+  font-family: var(--font-inter);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-montserrat);
+  font-weight: 600;
+}
+
+a {
+  color: var(--color-primary);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-accent);
+} 
+
+button{
+  font-family: var(--font-montserrat);
+}
