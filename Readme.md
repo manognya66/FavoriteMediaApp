@@ -129,14 +129,14 @@ Once both servers are running:
 
 📝 Signup Example:
 
-Name: test
-Email: test@gmail.com
-Password: test@123
+- Name: test
+- Email: test@gmail.com
+- Password: test@123
 
 ## 🔑 Login Example:
 
-Email: test@gmail.com
-Password: test@123
+- Email: test@gmail.com
+- Password: test@123
 ---
 
 ## 🧰 Useful Developer Tools
@@ -175,5 +175,6 @@ This project is licensed under the **MIT License** — you’re free to modify a
 ---
 
 > “Simplicity and elegance are the essence of great design.”
+
 
 
