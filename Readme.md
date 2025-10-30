@@ -131,7 +131,6 @@ Once both servers are running:
 |------|----------|-------------|
 | Prisma Studio | `npx prisma studio` | View and manage database visually |
 | MySQL CLI | `mysql -u root -p` | Interact with database manually |
-| Git | `git status` / `git push` | Version control |
 
 ---
 
@@ -162,3 +161,4 @@ This project is licensed under the **MIT License** — you’re free to modify a
 ---
 
 > “Simplicity and elegance are the essence of great design.”
+
