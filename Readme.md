@@ -133,7 +133,7 @@ Once both servers are running:
 - Email: test@gmail.com
 - Password: test@123
 
-## 🔑 Login Example:
+🔑 Login Example:
 
 - Email: test@gmail.com
 - Password: test@123
@@ -175,6 +175,7 @@ This project is licensed under the **MIT License** — you’re free to modify a
 ---
 
 > “Simplicity and elegance are the essence of great design.”
+
 
 
 
