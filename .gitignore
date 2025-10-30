@@ -41,7 +41,7 @@ gunicorn.log
 uvicorn.log
 
 
-🧰 TESTS & COVERAGE
+TESTS & COVERAGE
 
 htmlcov/
 .tox/
