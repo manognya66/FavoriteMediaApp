@@ -123,6 +123,20 @@ Once both servers are running:
 - Add new media entries using the UI
 - Media records will be stored in your MySQL database
 
+--- 
+
+## 🧍 Example Credentials
+
+📝 Signup Example:
+
+Name: test
+Email: test@gmail.com
+Password: test@123
+
+## 🔑 Login Example:
+
+Email: test@gmail.com
+Password: test@123
 ---
 
 ## 🧰 Useful Developer Tools
@@ -161,4 +175,5 @@ This project is licensed under the **MIT License** — you’re free to modify a
 ---
 
 > “Simplicity and elegance are the essence of great design.”
+
 
